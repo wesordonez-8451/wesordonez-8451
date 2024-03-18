@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wesordonez-8451
+- 👋 Hi, I’m Wesley Ordoñez
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning Cloud Computing and Devops
 - 📫 How to reach me wes.ordonez@8451.com
